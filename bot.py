@@ -1,4 +1,4 @@
-import telebot
+from telebot import telebot
 from time import sleep
 bot = telebot.TeleBot("5287776172:AAFEwlece-h_cTSJjYAgURPMGF0cPO5aIno")
 
